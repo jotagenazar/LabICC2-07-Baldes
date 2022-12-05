@@ -29,7 +29,3 @@ Aluno: João Gabriel Manfré Nazar (13733652)
 
 ### Merge Sort
 ![image](https://user-images.githubusercontent.com/106783009/205532168-b45acb1a-d8cd-4e42-a6d2-53cf43be57b3.png)
-
-
-## Considerações
-&ensp; 
